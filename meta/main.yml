@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Gerard Braad
+  description: Upgrade and reboot Atomic host
+  company: gbraad.nl
+  license: Apache
+  min_ansible_version: 2.1
+  platforms:
+  - name: EL
+    versions:
+    - all
+  - name: Fedora
+    versions:
+    - all
+  galaxy_tags:
+  - cloud
+dependencies: []
